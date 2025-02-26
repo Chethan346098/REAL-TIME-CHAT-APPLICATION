@@ -166,3 +166,4 @@ This Real-Time Chat Application demonstrates the power of WebSocket for real-tim
 
 **output**
 
+![Image](https://github.com/user-attachments/assets/dd5ad6f3-edde-4480-b3c5-24a82fde03af)
